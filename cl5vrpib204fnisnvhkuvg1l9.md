@@ -1,6 +1,6 @@
 ## Learn JavaScript Fundamentals
 
-Welcome **Tech Savvys** to the new way of learning JavaScript. I will be covering JavaScript with references from Free Code Camp JavaScript tutorial and MDN JavaScript Docs.
+Welcome **Tech Savvys** to the new way of learning JavaScript. I will be covering JavaScript with references from the Internet.
 
 Strange part is, I will be writing the blog as I learn. Thus, It will be a short and quick blog of JavaScript through my boots.
 
